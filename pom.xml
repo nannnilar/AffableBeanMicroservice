@@ -14,6 +14,9 @@
         <module>affablebean-ui</module>
         <module>payment-gateway</module>
         <module>transportation-service</module>
+        <module>api-security</module>
+        <module>eureka-server</module>
+        <module>gateway-client</module>
     </modules>
 
     <dependencyManagement>

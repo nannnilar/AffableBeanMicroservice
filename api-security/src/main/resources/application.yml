@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: api-security
+  datasource:
+    url: jdbc:mysql://localhost:3306/affablebean
+    username: root
+    password: admin
+  jpa:
+    hibernate:
+      ddl-auto: update
+  mail:
+    host: 0.0.0.0
+    port: 1025
+server:
+  port: 8070

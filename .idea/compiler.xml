@@ -9,7 +9,10 @@
         <outputRelativeToContentRoot value="true" />
         <module name="affablebean-ui" />
         <module name="transportation-service" />
+        <module name="gateway-client" />
+        <module name="api-security" />
         <module name="affablebean-backend" />
+        <module name="eureka-server" />
         <module name="payment-gateway" />
       </profile>
     </annotationProcessing>
@@ -18,6 +21,9 @@
     <option name="ADDITIONAL_OPTIONS_OVERRIDE">
       <module name="affablebean-backend" options="" />
       <module name="affablebean-ui" options="" />
+      <module name="api-security" options="" />
+      <module name="eureka-server" options="" />
+      <module name="gateway-client" options="" />
       <module name="payment-gateway" options="" />
       <module name="transportation-service" options="" />
     </option>

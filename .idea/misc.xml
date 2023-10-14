@@ -10,6 +10,9 @@
         <option value="$PROJECT_DIR$/affablebean-ui/pom.xml" />
         <option value="$PROJECT_DIR$/payment-gateway/pom.xml" />
         <option value="$PROJECT_DIR$/transportation-service/pom.xml" />
+        <option value="$PROJECT_DIR$/api-security/pom.xml" />
+        <option value="$PROJECT_DIR$/eureka-server/pom.xml" />
+        <option value="$PROJECT_DIR$/gateway-client/pom.xml" />
       </list>
     </option>
   </component>

@@ -1,4 +1,6 @@
 scalar Date @specifiedBy(url: "https://tools.ietf.org/html/rfc3339")
+#scalar DateTime
+#@specifiedBy(url: "https://scalars.graphql.org/andimarek/date-time.html")
 
 type Query{
     cartItems:[CartItem]
